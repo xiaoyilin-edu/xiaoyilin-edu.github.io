@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Labor Economics, Xiamen University, 2023-
+* M.Sc. in Labor Economics, Southwestern University of Finance and Economics, 2020-2023
+* B.A. in Human Resource Management, Southwestern University of Finance and Economics, 2016-2020
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Labor Economics, Applied Econometrics
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Working Papers
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Teaching Experiences
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Xiamen University
+  * Teaching Assistant for
+* Southwestern University of Finance and Economics
+  * Teaching Assistant for Shuo Huang, Labor Economics, Undergraduate Level Course    2020, 2021
   
-Service and leadership
+Awards & Fellowships
 ======
-* Currently signed in to 43 different slack teams
+* 
+* 
+* 
+
+Skills
+======
+* Stata, LaTeX, Matlab, Python, Qgis
