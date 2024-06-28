@@ -33,9 +33,10 @@ Working Papers
   
 Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2027:
+* 2026: 
+* 2025: 
+* 2022: Annual Meeting of China Labor Economic Forum (CLEF)
 
 Teaching Experiences
 ======
