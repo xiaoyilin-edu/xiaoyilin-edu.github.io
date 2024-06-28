@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Labor Economics, Xiamen University, 2023-
+  * Dissertation: 
 * M.Sc. in Labor Economics, Southwestern University of Finance and Economics, 2020-2023
 * B.A. in Human Resource Management, Southwestern University of Finance and Economics, 2016-2020
 
