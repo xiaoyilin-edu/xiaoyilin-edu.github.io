@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyi Lin"
+title: "Xiaoyi Lin (林小艺)"
 author_profile: true
 redirect_from: 
   - /about/
